@@ -1,0 +1,8 @@
+DATA LOG
+*********************************
+Customer Name: sech
+Product: Sealy Phuket
+VAT: R 184.95
+COMMISSION: R 61.650000000000006
+TOTAL: R 1479.6000000000001
+*********************************
